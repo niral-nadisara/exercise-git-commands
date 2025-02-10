@@ -9,3 +9,6 @@
 
 [apply]
   whitespace = fix
+
+[core]
+  excludesfile = ~/.gitignore
