@@ -1,3 +1,8 @@
 [user]
     name = "Your Name"
     email = "Your email address"
+
+[alias]
+    cm = commit --message  
+    co = checkout
+    st = status
