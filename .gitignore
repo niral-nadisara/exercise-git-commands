@@ -6,3 +6,6 @@
     cm = commit --message  
     co = checkout
     st = status
+
+[apply]
+  whitespace = fix
